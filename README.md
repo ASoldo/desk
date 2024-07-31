@@ -1,4 +1,4 @@
-# InfoSys
+# Deck
 
 Deck is a Rust-based system information tool that displays comprehensive details about the system's memory, CPU, network interfaces, disk usage, and component temperatures. This application leverages the `sysinfo` and `prettytable` crates to present the information in a well-structured, nested table format.
 
